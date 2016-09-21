@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle Multiples\bin\Debug\boucle Multiples.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle Multiples\bin\Debug\boucle Multiples.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle Multiples\bin\Debug\boucle Multiples.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle Multiples\obj\Debug\boucle Multiples.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle Multiples\obj\Debug\boucle Multiples.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle Multiples\obj\Debug\boucle Multiples.csprojResolveAssemblyReference.cache

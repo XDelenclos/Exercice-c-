@@ -1,0 +1,9 @@
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\Recherchelignetable\bin\Debug\Recherchelignetable.exe.config
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\Recherchelignetable\bin\Debug\Recherchelignetable.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\Recherchelignetable\bin\Debug\Recherchelignetable.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\Recherchelignetable\obj\Debug\Recherchelignetable.Form1.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\Recherchelignetable\obj\Debug\Recherchelignetable.Properties.Resources.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\Recherchelignetable\obj\Debug\Recherchelignetable.csproj.GenerateResource.Cache
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\Recherchelignetable\obj\Debug\Recherchelignetable.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\Recherchelignetable\obj\Debug\Recherchelignetable.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\Recherchelignetable\obj\Debug\Recherchelignetable.csprojResolveAssemblyReference.cache

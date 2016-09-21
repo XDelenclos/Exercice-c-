@@ -1,0 +1,9 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Ado.Net\ConnexionBase\bin\Debug\ConnexionBase.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Ado.Net\ConnexionBase\bin\Debug\ConnexionBase.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Ado.Net\ConnexionBase\bin\Debug\ConnexionBase.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Ado.Net\ConnexionBase\obj\Debug\ConnexionBase.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\Ado.Net\ConnexionBase\obj\Debug\ConnexionBase.Form1.resources
+c:\users\afpa\documents\visual studio 2015\Projects\Ado.Net\ConnexionBase\obj\Debug\ConnexionBase.Properties.Resources.resources
+c:\users\afpa\documents\visual studio 2015\Projects\Ado.Net\ConnexionBase\obj\Debug\ConnexionBase.csproj.GenerateResource.Cache
+c:\users\afpa\documents\visual studio 2015\Projects\Ado.Net\ConnexionBase\obj\Debug\ConnexionBase.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Ado.Net\ConnexionBase\obj\Debug\ConnexionBase.pdb

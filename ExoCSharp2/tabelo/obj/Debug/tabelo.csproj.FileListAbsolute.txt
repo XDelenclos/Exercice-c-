@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\tabelo\bin\Debug\tabelo.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\tabelo\obj\Debug\tabelo.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\tabelo\bin\Debug\tabelo.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\tabelo\bin\Debug\tabelo.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\tabelo\obj\Debug\tabelo.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\tabelo\obj\Debug\tabelo.pdb

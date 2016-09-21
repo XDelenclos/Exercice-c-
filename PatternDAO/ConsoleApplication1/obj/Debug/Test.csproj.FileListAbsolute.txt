@@ -1,0 +1,8 @@
+c:\users\afpa\documents\visual studio 2015\Projects\PatternDAO\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\ConsoleApplication1\bin\Debug\DAL.dll
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\ConsoleApplication1\bin\Debug\DAL.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\ConsoleApplication1\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

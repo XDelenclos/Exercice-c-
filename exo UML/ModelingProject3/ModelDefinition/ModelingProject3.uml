@@ -1,0 +1,1586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner"
+  dslVersion="1.0.0.0"
+  Id="c47b1877-2655-4301-b9f9-8a0ba0d44c0f"
+  name="ModelingProject3" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <interaction
+        Id="a1c53fb3-c32b-4005-9bde-e74a50157c48"
+        name="Sequence1"
+        collapseFragmentsFlag="false"
+        isActiveClass="false"
+        isAbstract="false"
+        isLeaf="false"
+        isReentrant="false">
+        <fragments>
+          <behaviorExecutionSpecification
+            Id="6f7c42e7-b65f-4ddd-9e11-fcd8af343cc1"
+            name="BehaviorExecutionSpecification1">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="23fb09a0-a542-4a52-9f15-73a34fde8a2f"
+                LastKnownName="ExecutionOccurrenceSpecification2"
+                LastKnownLocation="ModelingProject3.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="83cc8ba5-a990-4eaa-9f2d-5b36c4766d7d"
+                LastKnownName="ExecutionOccurrenceSpecification1"
+                LastKnownLocation="ModelingProject3.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="ab6dd406-7faf-458c-8fb8-795945bea7ff"
+                LastKnownName="MessageOccurrenceSpecification2"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="b184e137-78c6-42b8-9274-28daf80ddd7b"
+                LastKnownName="MessageOccurrenceSpecification3"
+                LastKnownLocation="ModelingProject3.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="83cc8ba5-a990-4eaa-9f2d-5b36c4766d7d"
+            name="ExecutionOccurrenceSpecification1">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="ef2dcd7c-caa7-45ec-8938-f64b8b190d67"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="d1d4854f-7cb1-44e1-b1e4-e44c19f4a6f1"
+            name="MessageOccurrenceSpecification1">
+            <event>
+              <sendOperationEventMoniker
+                Id="37f1e19f-d6b2-48ad-b150-0f34bf09753e"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="ab6dd406-7faf-458c-8fb8-795945bea7ff"
+            name="MessageOccurrenceSpecification2">
+            <event>
+              <receiveOperationEventMoniker
+                Id="2b3bc70c-7fbb-4cdb-a9b0-cc71eafd61ff"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="b184e137-78c6-42b8-9274-28daf80ddd7b"
+            name="MessageOccurrenceSpecification3">
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="c45d2ab2-d6d4-4e64-84ee-0c9fcb24e917"
+            name="MessageOccurrenceSpecification4">
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="23fb09a0-a542-4a52-9f15-73a34fde8a2f"
+            name="ExecutionOccurrenceSpecification2">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="f828b0aa-611c-40d9-aa76-b9e10fe9777c"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <behaviorExecutionSpecification
+            Id="054ad390-feb6-4a65-bbd1-5133e7d3a93e"
+            name="BehaviorExecutionSpecification2">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="15935ca8-2db5-4504-807e-346465c49fa6"
+                LastKnownName="ExecutionOccurrenceSpecification4"
+                LastKnownLocation="ModelingProject3.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="46ef72f8-9eb1-4dbf-8945-05d6d83f89b0"
+                LastKnownName="ExecutionOccurrenceSpecification3"
+                LastKnownLocation="ModelingProject3.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="72fb1ec3-37f4-4f1b-ac6c-6678dad877f1"
+                LastKnownName="MessageOccurrenceSpecification6"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="fc02c94c-ef9e-47ab-a666-cdf713a20024"
+                LastKnownName="MessageOccurrenceSpecification7"
+                LastKnownLocation="ModelingProject3.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="46ef72f8-9eb1-4dbf-8945-05d6d83f89b0"
+            name="ExecutionOccurrenceSpecification3">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="480aae3e-1482-41f4-9402-479f10531550"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="6a367c54-10d1-4c89-a2bc-12c39aac05d4"
+            name="MessageOccurrenceSpecification5">
+            <event>
+              <sendOperationEventMoniker
+                Id="62795fd8-9a16-4a7c-bca0-965f45dafe31"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="72fb1ec3-37f4-4f1b-ac6c-6678dad877f1"
+            name="MessageOccurrenceSpecification6">
+            <event>
+              <receiveOperationEventMoniker
+                Id="0e2a422f-b551-4606-912a-fd92e49d0451"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="fc02c94c-ef9e-47ab-a666-cdf713a20024"
+            name="MessageOccurrenceSpecification7">
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="654fa69a-0ea2-4da0-952a-e3486194cf7f"
+            name="MessageOccurrenceSpecification8">
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="15935ca8-2db5-4504-807e-346465c49fa6"
+            name="ExecutionOccurrenceSpecification4">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="66bcff34-0ffc-4ecc-a4ed-e797593a7891"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <behaviorExecutionSpecification
+            Id="5cd410dd-9327-47cd-8600-6d5f0ef4f90e"
+            name="BehaviorExecutionSpecification3">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="7722a19e-7dbf-4834-9ae4-ab48c8531e70"
+                LastKnownName="ExecutionOccurrenceSpecification6"
+                LastKnownLocation="ModelingProject3.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="c06d7996-4516-41b7-89ea-e40009bbe65d"
+                LastKnownName="ExecutionOccurrenceSpecification5"
+                LastKnownLocation="ModelingProject3.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="038675bf-a4bf-426d-a90e-6a2a3197f5fa"
+                LastKnownName="MessageOccurrenceSpecification10"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="e7adc92c-0653-4437-a4fd-cad4259d185c"
+                LastKnownName="MessageOccurrenceSpecification11"
+                LastKnownLocation="ModelingProject3.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="c06d7996-4516-41b7-89ea-e40009bbe65d"
+            name="ExecutionOccurrenceSpecification5">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="cbf2d527-e964-4d92-aa79-40d7c287b4f4"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="60953342-fec7-4424-9e70-c7bcc0d092f1"
+            name="MessageOccurrenceSpecification9">
+            <event>
+              <sendOperationEventMoniker
+                Id="9c695567-fa35-44fb-b7f3-ec5dc4cf77de"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="038675bf-a4bf-426d-a90e-6a2a3197f5fa"
+            name="MessageOccurrenceSpecification10">
+            <event>
+              <receiveOperationEventMoniker
+                Id="201a572d-6f88-4bd7-ba53-75ca90fca687"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="e7adc92c-0653-4437-a4fd-cad4259d185c"
+            name="MessageOccurrenceSpecification11">
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="0234fa59-46a5-4b0e-8ce6-a7ce89dfbd01"
+            name="MessageOccurrenceSpecification12">
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="7722a19e-7dbf-4834-9ae4-ab48c8531e70"
+            name="ExecutionOccurrenceSpecification6">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="0a45bac5-926e-4f2a-b51e-ce5a47bd3158"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <behaviorExecutionSpecification
+            Id="23acc52b-2663-4c91-b95c-827d84a09d96"
+            name="BehaviorExecutionSpecification4">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="ff04b1a7-04a5-436f-b27f-7c98ee104993"
+                LastKnownName="ExecutionOccurrenceSpecification8"
+                LastKnownLocation="ModelingProject3.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="40eb88fc-a701-4243-b7c7-18a55fd46b7d"
+                LastKnownName="ExecutionOccurrenceSpecification7"
+                LastKnownLocation="ModelingProject3.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="f747fe8e-dd3f-4f5e-85b7-078171431eac"
+                LastKnownName="MessageOccurrenceSpecification14"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="472ac5f5-76e9-4b2c-b611-12e0613cce73"
+                LastKnownName="MessageOccurrenceSpecification15"
+                LastKnownLocation="ModelingProject3.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="40eb88fc-a701-4243-b7c7-18a55fd46b7d"
+            name="ExecutionOccurrenceSpecification7">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="08113c33-c498-4ad7-b00a-f8cc6759160a"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="829abda9-5510-47bc-a24f-ffc121f57071"
+            name="MessageOccurrenceSpecification13">
+            <event>
+              <sendOperationEventMoniker
+                Id="02c69968-f0d3-407e-92f8-12785c9c4bd1"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="f747fe8e-dd3f-4f5e-85b7-078171431eac"
+            name="MessageOccurrenceSpecification14">
+            <event>
+              <receiveOperationEventMoniker
+                Id="0e45f1d0-d8d4-4aa9-9101-cf9be4586732"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="86186103-5116-413d-b74e-1cb92ddc140b"
+            name="MessageOccurrenceSpecification16">
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="472ac5f5-76e9-4b2c-b611-12e0613cce73"
+            name="MessageOccurrenceSpecification15">
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="ff04b1a7-04a5-436f-b27f-7c98ee104993"
+            name="ExecutionOccurrenceSpecification8">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="65f271cc-9846-4afc-b401-8071f61f595c"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <behaviorExecutionSpecification
+            Id="70e6f5fe-1a28-4fde-8edd-b626e4d5b7c8"
+            name="BehaviorExecutionSpecification5">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="bbe0b1f7-8f1b-488e-88db-a2c5d9dfce7e"
+                LastKnownName="ExecutionOccurrenceSpecification10"
+                LastKnownLocation="ModelingProject3.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="4fb8580d-bc0e-498e-8814-84de72c73abc"
+                LastKnownName="ExecutionOccurrenceSpecification9"
+                LastKnownLocation="ModelingProject3.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="b836f4e4-309a-451a-a4bc-66845146e6d5"
+                LastKnownName="MessageOccurrenceSpecification18"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="bced2f41-1a73-44ae-ab5f-abb6461a5a4f"
+                LastKnownName="MessageOccurrenceSpecification19"
+                LastKnownLocation="ModelingProject3.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="4fb8580d-bc0e-498e-8814-84de72c73abc"
+            name="ExecutionOccurrenceSpecification9">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="681cd333-7209-4d7e-97f9-6d84e843d7b9"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="b836f4e4-309a-451a-a4bc-66845146e6d5"
+            name="MessageOccurrenceSpecification18">
+            <event>
+              <receiveOperationEventMoniker
+                Id="48761ce0-59eb-43b5-9bd2-462a3ccc01c6"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="7e6bc9df-2cd8-44a1-a47c-80d8ce480b37"
+            name="MessageOccurrenceSpecification17">
+            <event>
+              <sendOperationEventMoniker
+                Id="e358748a-96b0-475e-b42b-7a518eefc700"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="29209a8b-f052-4a89-a832-10ceb08a2ae3"
+            name="MessageOccurrenceSpecification20">
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="bced2f41-1a73-44ae-ab5f-abb6461a5a4f"
+            name="MessageOccurrenceSpecification19">
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="bbe0b1f7-8f1b-488e-88db-a2c5d9dfce7e"
+            name="ExecutionOccurrenceSpecification10">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="eb3db105-87ff-4de8-8a85-8bd53b1fb671"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <behaviorExecutionSpecification
+            Id="941b00bd-f5d9-495b-aef2-cd2dc48de3c5"
+            name="BehaviorExecutionSpecification6">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="88c2c1a1-ae7a-42aa-bd76-9019f9adc008"
+                LastKnownName="ExecutionOccurrenceSpecification12"
+                LastKnownLocation="ModelingProject3.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="c45d344f-fea0-4d4e-bf2d-ae318d2f5c0b"
+                LastKnownName="ExecutionOccurrenceSpecification11"
+                LastKnownLocation="ModelingProject3.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="bc10da75-20ac-4c2a-b79c-9662ceaa5ca4"
+                LastKnownName="MessageOccurrenceSpecification22"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="b6ee232b-235c-436e-9e4b-bd53603debeb"
+                LastKnownName="MessageOccurrenceSpecification23"
+                LastKnownLocation="ModelingProject3.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="c45d344f-fea0-4d4e-bf2d-ae318d2f5c0b"
+            name="ExecutionOccurrenceSpecification11">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="0848d3e0-58cb-47ce-be07-69886d4d9c5e"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="15fcca08-7403-4a92-a599-dc9b56b5e47b"
+            name="MessageOccurrenceSpecification21">
+            <event>
+              <sendOperationEventMoniker
+                Id="b7aef927-cf8f-4d3c-ae71-602a4e9911f6"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="bc10da75-20ac-4c2a-b79c-9662ceaa5ca4"
+            name="MessageOccurrenceSpecification22">
+            <event>
+              <receiveOperationEventMoniker
+                Id="d9f8babb-2f74-4e05-8ad4-209cb51867d5"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="05ccc953-f770-4137-84f9-be26258f2caf"
+            name="MessageOccurrenceSpecification24">
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="b6ee232b-235c-436e-9e4b-bd53603debeb"
+            name="MessageOccurrenceSpecification23">
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="88c2c1a1-ae7a-42aa-bd76-9019f9adc008"
+            name="ExecutionOccurrenceSpecification12">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="8c825a9e-b263-418a-b7ad-45a8ad62437b"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <behaviorExecutionSpecification
+            Id="25c372ef-9980-46d1-88d6-0fc5304c9b60"
+            name="BehaviorExecutionSpecification7">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="9b7fae18-de70-4237-8093-df801c2f7ede"
+                LastKnownName="ExecutionOccurrenceSpecification14"
+                LastKnownLocation="ModelingProject3.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="3a2302b8-f362-4c19-9feb-305efc95fc6d"
+                LastKnownName="ExecutionOccurrenceSpecification13"
+                LastKnownLocation="ModelingProject3.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="f870cdd7-9de8-4076-b276-86db551cde3c"
+                LastKnownName="MessageOccurrenceSpecification26"
+                LastKnownLocation="ModelingProject3.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="3a2302b8-f362-4c19-9feb-305efc95fc6d"
+            name="ExecutionOccurrenceSpecification13">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="b5f1a747-6003-4bb6-ae99-9a70f510ee8e"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="f870cdd7-9de8-4076-b276-86db551cde3c"
+            name="MessageOccurrenceSpecification26">
+            <event>
+              <receiveOperationEventMoniker
+                Id="de34d7af-ceca-4562-9d9e-da968cd1493b"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="009bca65-5205-49cc-9189-40631ab20926"
+            name="MessageOccurrenceSpecification25">
+            <event>
+              <sendOperationEventMoniker
+                Id="24c19ef6-a0fd-476c-8d3a-e95302e332bc"
+                LastKnownLocation="ModelingProject3.uml" />
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="9b7fae18-de70-4237-8093-df801c2f7ede"
+            name="ExecutionOccurrenceSpecification14">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="60c592ac-ab6c-4ab5-896e-8622b595cf6d"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="ModelingProject3.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="d9696941-f396-4801-a6f1-3d11808f955b"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+        </fragments>
+        <lifelines>
+          <lifeline
+            Id="6106e55e-8a0d-4d95-bae3-5a385de5c51c"
+            name="Bibliothécaire"
+            isActor="false"
+            lifelineDisplayName="Bibliothécaire">
+            <represents>
+              <propertyMoniker
+                Id="831bd624-f87f-4236-ad8e-aa4a465951c7"
+                LastKnownLocation="ModelingProject3.uml" />
+            </represents>
+            <topLevelOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="d1d4854f-7cb1-44e1-b1e4-e44c19f4a6f1"
+                LastKnownName="MessageOccurrenceSpecification1"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="c45d2ab2-d6d4-4e64-84ee-0c9fcb24e917"
+                LastKnownName="MessageOccurrenceSpecification4"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="6a367c54-10d1-4c89-a2bc-12c39aac05d4"
+                LastKnownName="MessageOccurrenceSpecification5"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="654fa69a-0ea2-4da0-952a-e3486194cf7f"
+                LastKnownName="MessageOccurrenceSpecification8"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="60953342-fec7-4424-9e70-c7bcc0d092f1"
+                LastKnownName="MessageOccurrenceSpecification9"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="0234fa59-46a5-4b0e-8ce6-a7ce89dfbd01"
+                LastKnownName="MessageOccurrenceSpecification12"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="829abda9-5510-47bc-a24f-ffc121f57071"
+                LastKnownName="MessageOccurrenceSpecification13"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="86186103-5116-413d-b74e-1cb92ddc140b"
+                LastKnownName="MessageOccurrenceSpecification16"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="7e6bc9df-2cd8-44a1-a47c-80d8ce480b37"
+                LastKnownName="MessageOccurrenceSpecification17"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="29209a8b-f052-4a89-a832-10ceb08a2ae3"
+                LastKnownName="MessageOccurrenceSpecification20"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="15fcca08-7403-4a92-a599-dc9b56b5e47b"
+                LastKnownName="MessageOccurrenceSpecification21"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="05ccc953-f770-4137-84f9-be26258f2caf"
+                LastKnownName="MessageOccurrenceSpecification24"
+                LastKnownLocation="ModelingProject3.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="009bca65-5205-49cc-9189-40631ab20926"
+                LastKnownName="MessageOccurrenceSpecification25"
+                LastKnownLocation="ModelingProject3.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline
+            Id="d9696941-f396-4801-a6f1-3d11808f955b"
+            name="Prêt des documents"
+            isActor="false"
+            lifelineDisplayName="Prêt des documents">
+            <represents>
+              <propertyMoniker
+                Id="3eca6722-1ce6-459e-b6c0-3d5cd9c1f01d"
+                LastKnownLocation="ModelingProject3.uml" />
+            </represents>
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker
+                Id="83cc8ba5-a990-4eaa-9f2d-5b36c4766d7d"
+                LastKnownName="ExecutionOccurrenceSpecification1"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="23fb09a0-a542-4a52-9f15-73a34fde8a2f"
+                LastKnownName="ExecutionOccurrenceSpecification2"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="46ef72f8-9eb1-4dbf-8945-05d6d83f89b0"
+                LastKnownName="ExecutionOccurrenceSpecification3"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="15935ca8-2db5-4504-807e-346465c49fa6"
+                LastKnownName="ExecutionOccurrenceSpecification4"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="c06d7996-4516-41b7-89ea-e40009bbe65d"
+                LastKnownName="ExecutionOccurrenceSpecification5"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="7722a19e-7dbf-4834-9ae4-ab48c8531e70"
+                LastKnownName="ExecutionOccurrenceSpecification6"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="40eb88fc-a701-4243-b7c7-18a55fd46b7d"
+                LastKnownName="ExecutionOccurrenceSpecification7"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="ff04b1a7-04a5-436f-b27f-7c98ee104993"
+                LastKnownName="ExecutionOccurrenceSpecification8"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="4fb8580d-bc0e-498e-8814-84de72c73abc"
+                LastKnownName="ExecutionOccurrenceSpecification9"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="bbe0b1f7-8f1b-488e-88db-a2c5d9dfce7e"
+                LastKnownName="ExecutionOccurrenceSpecification10"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="c45d344f-fea0-4d4e-bf2d-ae318d2f5c0b"
+                LastKnownName="ExecutionOccurrenceSpecification11"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="88c2c1a1-ae7a-42aa-bd76-9019f9adc008"
+                LastKnownName="ExecutionOccurrenceSpecification12"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="3a2302b8-f362-4c19-9feb-305efc95fc6d"
+                LastKnownName="ExecutionOccurrenceSpecification13"
+                LastKnownLocation="ModelingProject3.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="9b7fae18-de70-4237-8093-df801c2f7ede"
+                LastKnownName="ExecutionOccurrenceSpecification14"
+                LastKnownLocation="ModelingProject3.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+        </lifelines>
+        <messages>
+          <message
+            Id="60588dc7-34d2-4f63-9705-77521466d723"
+            name="ouvre de la gestion de prêt"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false"
+            signatureText="+ ouvre de la gestion de prêt()">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="d1d4854f-7cb1-44e1-b1e4-e44c19f4a6f1"
+                LastKnownName="MessageOccurrenceSpecification1"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="ab6dd406-7faf-458c-8fb8-795945bea7ff"
+                LastKnownName="MessageOccurrenceSpecification2"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="c369c8b2-48a3-47aa-a7ea-16042f705239"
+            name="affiche la fenêtre de gestion de prêt"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="b184e137-78c6-42b8-9274-28daf80ddd7b"
+                LastKnownName="MessageOccurrenceSpecification3"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="c45d2ab2-d6d4-4e64-84ee-0c9fcb24e917"
+                LastKnownName="MessageOccurrenceSpecification4"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="95eef962-d8dd-4baf-aaa1-8e5ff86a107d"
+            name="Sélection de l'outils d'identification des usagers"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="6a367c54-10d1-4c89-a2bc-12c39aac05d4"
+                LastKnownName="MessageOccurrenceSpecification5"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="72fb1ec3-37f4-4f1b-ac6c-6678dad877f1"
+                LastKnownName="MessageOccurrenceSpecification6"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="9098eb7f-4ce8-4ed9-a272-fd0ce4d50105"
+            name="affiche la fenêtre d'identification des usagers"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="fc02c94c-ef9e-47ab-a666-cdf713a20024"
+                LastKnownName="MessageOccurrenceSpecification7"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="654fa69a-0ea2-4da0-952a-e3486194cf7f"
+                LastKnownName="MessageOccurrenceSpecification8"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="01961c3d-7366-4d21-bad0-44145cf51250"
+            name="saisie des identifiants de l'usager"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false"
+            signatureText="+ saisie des identifiants de l'usager()">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="60953342-fec7-4424-9e70-c7bcc0d092f1"
+                LastKnownName="MessageOccurrenceSpecification9"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="038675bf-a4bf-426d-a90e-6a2a3197f5fa"
+                LastKnownName="MessageOccurrenceSpecification10"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="d0cd610c-2b7a-4cc3-98f3-157d17457ed7"
+            name="Affiche la fenêtre usager"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="e7adc92c-0653-4437-a4fd-cad4259d185c"
+                LastKnownName="MessageOccurrenceSpecification11"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="0234fa59-46a5-4b0e-8ce6-a7ce89dfbd01"
+                LastKnownName="MessageOccurrenceSpecification12"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="b95e03a1-423a-4268-bdfd-9155ce2d69e2"
+            name="Sélectionne l'option d'ajout au panier"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false"
+            signatureText="+ Sélectionne l'option d'ajout au panier()">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="829abda9-5510-47bc-a24f-ffc121f57071"
+                LastKnownName="MessageOccurrenceSpecification13"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="f747fe8e-dd3f-4f5e-85b7-078171431eac"
+                LastKnownName="MessageOccurrenceSpecification14"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="6bd4cdab-91e1-4e63-8f82-f06d3a3d29aa"
+            name="Affiche la fenêtre d'ajout de documents"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="472ac5f5-76e9-4b2c-b611-12e0613cce73"
+                LastKnownName="MessageOccurrenceSpecification15"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="86186103-5116-413d-b74e-1cb92ddc140b"
+                LastKnownName="MessageOccurrenceSpecification16"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="64693074-4d3c-43a1-8b4a-dfca2a3c647c"
+            name="entrée des informations d'identification des documents (scan/ id du document / nom du document)"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="7e6bc9df-2cd8-44a1-a47c-80d8ce480b37"
+                LastKnownName="MessageOccurrenceSpecification17"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="b836f4e4-309a-451a-a4bc-66845146e6d5"
+                LastKnownName="MessageOccurrenceSpecification18"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="4920628e-f8ec-4fd1-b58c-f496dc542728"
+            name="Affiche la fenêtre contenant les documents identifiés, leur disponibilité, informe de la date de retourpar rapport à la date d'emprunt"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="bced2f41-1a73-44ae-ab5f-abb6461a5a4f"
+                LastKnownName="MessageOccurrenceSpecification19"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="29209a8b-f052-4a89-a832-10ceb08a2ae3"
+                LastKnownName="MessageOccurrenceSpecification20"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="9ed80429-aca9-47eb-8ac2-c2b139a23cc9"
+            name="Validation du panier"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="15fcca08-7403-4a92-a599-dc9b56b5e47b"
+                LastKnownName="MessageOccurrenceSpecification21"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="bc10da75-20ac-4c2a-b79c-9662ceaa5ca4"
+                LastKnownName="MessageOccurrenceSpecification22"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="16a6275e-4f4b-4895-a8df-9c85583978d0"
+            name="Affichage de la validation des emprunts et des dates de retour effectives."
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="b6ee232b-235c-436e-9e4b-bd53603debeb"
+                LastKnownName="MessageOccurrenceSpecification23"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="05ccc953-f770-4137-84f9-be26258f2caf"
+                LastKnownName="MessageOccurrenceSpecification24"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="38afd947-6728-47f9-8934-c3ac748ef4aa"
+            name="Déconnection de la fenêtre emprunt"
+            messageKind="Complete"
+            messageSort="AsynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="009bca65-5205-49cc-9189-40631ab20926"
+                LastKnownName="MessageOccurrenceSpecification25"
+                LastKnownLocation="ModelingProject3.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="f870cdd7-9de8-4076-b276-86db551cde3c"
+                LastKnownName="MessageOccurrenceSpecification26"
+                LastKnownLocation="ModelingProject3.uml" />
+            </receiveEvent>
+          </message>
+        </messages>
+        <ownedAttributesInternal>
+          <property
+            Id="831bd624-f87f-4236-ad8e-aa4a465951c7"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <interfaceMoniker
+                Id="ad3321a2-3a5e-43d0-852a-57bd97c1abef"
+                LastKnownName="Bibliothécaire"
+                LastKnownLocation="ModelingProject3.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="3eca6722-1ce6-459e-b6c0-3d5cd9c1f01d"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <interfaceMoniker
+                Id="19a06568-e9e8-4c0a-b3c6-47f0119d9ae7"
+                LastKnownName="Prêt des documents"
+                LastKnownLocation="ModelingProject3.uml" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </interaction>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="ef2dcd7c-caa7-45ec-8938-f64b8b190d67"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="f828b0aa-611c-40d9-aa76-b9e10fe9777c"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="480aae3e-1482-41f4-9402-479f10531550"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="66bcff34-0ffc-4ecc-a4ed-e797593a7891"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="cbf2d527-e964-4d92-aa79-40d7c287b4f4"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="0a45bac5-926e-4f2a-b51e-ce5a47bd3158"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="08113c33-c498-4ad7-b00a-f8cc6759160a"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="65f271cc-9846-4afc-b401-8071f61f595c"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="681cd333-7209-4d7e-97f9-6d84e843d7b9"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="eb3db105-87ff-4de8-8a85-8bd53b1fb671"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="0848d3e0-58cb-47ce-be07-69886d4d9c5e"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="8c825a9e-b263-418a-b7ad-45a8ad62437b"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="b5f1a747-6003-4bb6-ae99-9a70f510ee8e"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="60c592ac-ab6c-4ab5-896e-8622b595cf6d"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <Interface
+        Id="ad3321a2-3a5e-43d0-852a-57bd97c1abef"
+        name="Bibliothécaire"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <Interface
+        Id="19a06568-e9e8-4c0a-b3c6-47f0119d9ae7"
+        name="Prêt des documents"
+        isAbstract="false"
+        isLeaf="false">
+        <ownedOperations>
+          <operation
+            Id="10443f85-6d5a-42bd-a90d-57438fa4318f"
+            name="ouvre de la gestion de prêt"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="true"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="d7e89764-652f-4122-bcd7-c425400918c4"
+            name="Sélection de l'outils d'identification des usagers"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="true"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="4dcb2eb9-94b5-4a93-bde9-81affcf0e22b"
+            name="saisie des identifiants de l'usager"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="true"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="c1ac5c6f-f8d8-4781-9df1-adf1cd0e9afd"
+            name="Sélectionne l'option d'ajout au panier"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="true"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="21cbb644-9262-4c2e-a1e0-106edfb7d08f"
+            name="entrée des informations d'identification des documents"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="true"
+            concurrency="Sequential"
+            isQuery="false">
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="f61cf524-d079-4aee-9551-921a67e4b877"
+                  name="scan/ id du document / nom du document"
+                  direction="In"
+                  isUnique="false" />
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation
+            Id="5792b5ef-bd17-4711-a2b5-a7980249e219"
+            name="Validation du panier"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="true"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="47f38d2d-e364-44f7-a4ac-3b3dbb7ec75a"
+            name="Déconnection de la fenêtre emprunt"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="true"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperations>
+      </Interface>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <sendOperationEvent
+        Id="37f1e19f-d6b2-48ad-b150-0f34bf09753e">
+        <operation>
+          <operationMoniker
+            Id="10443f85-6d5a-42bd-a90d-57438fa4318f"
+            LastKnownName="ouvre de la gestion de prêt"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </sendOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <receiveOperationEvent
+        Id="2b3bc70c-7fbb-4cdb-a9b0-cc71eafd61ff">
+        <operation>
+          <operationMoniker
+            Id="10443f85-6d5a-42bd-a90d-57438fa4318f"
+            LastKnownName="ouvre de la gestion de prêt"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </receiveOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <sendOperationEvent
+        Id="62795fd8-9a16-4a7c-bca0-965f45dafe31">
+        <operation>
+          <operationMoniker
+            Id="d7e89764-652f-4122-bcd7-c425400918c4"
+            LastKnownName="Sélection de l'outils d'identification des usagers"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </sendOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <receiveOperationEvent
+        Id="0e2a422f-b551-4606-912a-fd92e49d0451">
+        <operation>
+          <operationMoniker
+            Id="d7e89764-652f-4122-bcd7-c425400918c4"
+            LastKnownName="Sélection de l'outils d'identification des usagers"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </receiveOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <sendOperationEvent
+        Id="9c695567-fa35-44fb-b7f3-ec5dc4cf77de">
+        <operation>
+          <operationMoniker
+            Id="4dcb2eb9-94b5-4a93-bde9-81affcf0e22b"
+            LastKnownName="saisie des identifiants de l'usager"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </sendOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <receiveOperationEvent
+        Id="201a572d-6f88-4bd7-ba53-75ca90fca687">
+        <operation>
+          <operationMoniker
+            Id="4dcb2eb9-94b5-4a93-bde9-81affcf0e22b"
+            LastKnownName="saisie des identifiants de l'usager"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </receiveOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <sendOperationEvent
+        Id="02c69968-f0d3-407e-92f8-12785c9c4bd1">
+        <operation>
+          <operationMoniker
+            Id="c1ac5c6f-f8d8-4781-9df1-adf1cd0e9afd"
+            LastKnownName="Sélectionne l'option d'ajout au panier"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </sendOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <receiveOperationEvent
+        Id="0e45f1d0-d8d4-4aa9-9101-cf9be4586732">
+        <operation>
+          <operationMoniker
+            Id="c1ac5c6f-f8d8-4781-9df1-adf1cd0e9afd"
+            LastKnownName="Sélectionne l'option d'ajout au panier"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </receiveOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <sendOperationEvent
+        Id="e358748a-96b0-475e-b42b-7a518eefc700">
+        <operation>
+          <operationMoniker
+            Id="21cbb644-9262-4c2e-a1e0-106edfb7d08f"
+            LastKnownName="entrée des informations d'identification des documents"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </sendOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <receiveOperationEvent
+        Id="48761ce0-59eb-43b5-9bd2-462a3ccc01c6">
+        <operation>
+          <operationMoniker
+            Id="21cbb644-9262-4c2e-a1e0-106edfb7d08f"
+            LastKnownName="entrée des informations d'identification des documents"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </receiveOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <sendOperationEvent
+        Id="b7aef927-cf8f-4d3c-ae71-602a4e9911f6">
+        <operation>
+          <operationMoniker
+            Id="5792b5ef-bd17-4711-a2b5-a7980249e219"
+            LastKnownName="Validation du panier"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </sendOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <receiveOperationEvent
+        Id="d9f8babb-2f74-4e05-8ad4-209cb51867d5">
+        <operation>
+          <operationMoniker
+            Id="5792b5ef-bd17-4711-a2b5-a7980249e219"
+            LastKnownName="Validation du panier"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </receiveOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <sendOperationEvent
+        Id="24c19ef6-a0fd-476c-8d3a-e95302e332bc">
+        <operation>
+          <operationMoniker
+            Id="47f38d2d-e364-44f7-a4ac-3b3dbb7ec75a"
+            LastKnownName="Déconnection de la fenêtre emprunt"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </sendOperationEvent>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <receiveOperationEvent
+        Id="de34d7af-ceca-4562-9d9e-da968cd1493b">
+        <operation>
+          <operationMoniker
+            Id="47f38d2d-e364-44f7-a4ac-3b3dbb7ec75a"
+            LastKnownName="Déconnection de la fenêtre emprunt"
+            LastKnownLocation="ModelingProject3.uml" />
+        </operation>
+      </receiveOperationEvent>
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

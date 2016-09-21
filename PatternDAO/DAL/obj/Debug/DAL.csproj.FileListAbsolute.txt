@@ -1,0 +1,10 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\DAL\bin\Debug\DAL.dll
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\DAL\bin\Debug\DAL.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\DAL\obj\Debug\DAL.dll
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\DAL\obj\Debug\DAL.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\DAL\bin\Debug\DAL.dll.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\DAL\bin\Debug\EntityFramework.dll
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\DAL\bin\Debug\EntityFramework.xml
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\DAL\bin\Debug\EntityFramework.SqlServer.xml

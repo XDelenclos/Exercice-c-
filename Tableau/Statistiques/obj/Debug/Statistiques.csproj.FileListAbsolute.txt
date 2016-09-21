@@ -1,0 +1,5 @@
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Statistiques\bin\Debug\Statistiques.exe.config
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Statistiques\bin\Debug\Statistiques.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Statistiques\bin\Debug\Statistiques.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Statistiques\obj\Debug\Statistiques.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Statistiques\obj\Debug\Statistiques.pdb

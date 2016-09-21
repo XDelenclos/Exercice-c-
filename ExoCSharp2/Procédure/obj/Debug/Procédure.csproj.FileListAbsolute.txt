@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\Procédure\bin\Debug\Procédure.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\Procédure\bin\Debug\Procédure.exe
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\Procédure\bin\Debug\Procédure.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\Procédure\obj\Debug\Procédure.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\Procédure\obj\Debug\Procédure.exe
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\Procédure\obj\Debug\Procédure.pdb

@@ -1,0 +1,5 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\voyelles count\bin\Debug\voyelles count.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\voyelles count\bin\Debug\voyelles count.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\voyelles count\bin\Debug\voyelles count.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\voyelles count\obj\Debug\voyelles count.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\voyelles count\obj\Debug\voyelles count.pdb

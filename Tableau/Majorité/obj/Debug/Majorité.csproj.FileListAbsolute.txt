@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\Majorité\bin\Debug\Majorité.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\Majorité\bin\Debug\Majorité.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\Majorité\bin\Debug\Majorité.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\Majorité\obj\Debug\Majorité.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\Majorité\obj\Debug\Majorité.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\Majorité\obj\Debug\Majorité.pdb

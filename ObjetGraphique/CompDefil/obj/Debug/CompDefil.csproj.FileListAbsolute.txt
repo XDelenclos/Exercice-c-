@@ -1,0 +1,9 @@
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\CompDefil\bin\Debug\CompDefil.exe.config
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\CompDefil\bin\Debug\CompDefil.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\CompDefil\bin\Debug\CompDefil.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\CompDefil\obj\Debug\CompDefil.Form1.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\CompDefil\obj\Debug\CompDefil.Properties.Resources.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\CompDefil\obj\Debug\CompDefil.csproj.GenerateResource.Cache
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\CompDefil\obj\Debug\CompDefil.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\CompDefil\obj\Debug\CompDefil.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\CompDefil\obj\Debug\CompDefil.csprojResolveAssemblyReference.cache

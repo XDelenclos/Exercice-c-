@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\conversion unicode\bin\Debug\conversion unicode.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\conversion unicode\obj\Debug\conversion unicode.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\conversion unicode\bin\Debug\conversion unicode.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\conversion unicode\bin\Debug\conversion unicode.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\conversion unicode\obj\Debug\conversion unicode.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\conversion unicode\obj\Debug\conversion unicode.pdb

@@ -1,0 +1,9 @@
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\Hsbarcouleur\bin\Debug\Hsbarcouleur.exe.config
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\Hsbarcouleur\obj\Debug\Hsbarcouleur.Form1.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\Hsbarcouleur\obj\Debug\Hsbarcouleur.Properties.Resources.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\Hsbarcouleur\obj\Debug\Hsbarcouleur.csproj.GenerateResource.Cache
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\Hsbarcouleur\bin\Debug\Hsbarcouleur.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\Hsbarcouleur\bin\Debug\Hsbarcouleur.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\Hsbarcouleur\obj\Debug\Hsbarcouleur.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\Hsbarcouleur\obj\Debug\Hsbarcouleur.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\Hsbarcouleur\obj\Debug\Hsbarcouleur.csprojResolveAssemblyReference.cache

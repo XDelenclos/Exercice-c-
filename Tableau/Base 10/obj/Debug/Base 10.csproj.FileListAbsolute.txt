@@ -1,0 +1,6 @@
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Base 10\bin\Debug\Base 10.exe.config
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Base 10\bin\Debug\Base 10.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Base 10\bin\Debug\Base 10.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Base 10\obj\Debug\Base 10.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Base 10\obj\Debug\Base 10.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Base 10\obj\Debug\Base 10.csprojResolveAssemblyReference.cache

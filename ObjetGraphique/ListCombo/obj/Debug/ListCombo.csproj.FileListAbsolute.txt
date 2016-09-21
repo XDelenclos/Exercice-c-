@@ -1,0 +1,9 @@
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\ObjetGraphique\ListCombo\bin\Debug\ListCombo.exe.config
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\ObjetGraphique\ListCombo\bin\Debug\ListCombo.exe
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\ObjetGraphique\ListCombo\bin\Debug\ListCombo.pdb
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\ObjetGraphique\ListCombo\obj\Debug\ListCombo.Form1.resources
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\ObjetGraphique\ListCombo\obj\Debug\ListCombo.Properties.Resources.resources
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\ObjetGraphique\ListCombo\obj\Debug\ListCombo.csproj.GenerateResource.Cache
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\ObjetGraphique\ListCombo\obj\Debug\ListCombo.exe
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\ObjetGraphique\ListCombo\obj\Debug\ListCombo.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\ListCombo\obj\Debug\ListCombo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle somme inter\bin\Debug\boucle somme inter.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle somme inter\bin\Debug\boucle somme inter.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle somme inter\bin\Debug\boucle somme inter.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle somme inter\obj\Debug\boucle somme inter.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle somme inter\obj\Debug\boucle somme inter.pdb

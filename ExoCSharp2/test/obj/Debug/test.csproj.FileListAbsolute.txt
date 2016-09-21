@@ -1,0 +1,5 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test\bin\Debug\test.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test\bin\Debug\test.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test\bin\Debug\test.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test\obj\Debug\test.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test\obj\Debug\test.pdb

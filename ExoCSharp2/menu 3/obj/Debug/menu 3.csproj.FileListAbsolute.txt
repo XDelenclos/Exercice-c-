@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\menu 3\bin\Debug\menu 3.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\menu 3\bin\Debug\menu 3.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\menu 3\bin\Debug\menu 3.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\menu 3\obj\Debug\menu 3.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\menu 3\obj\Debug\menu 3.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\menu 3\obj\Debug\menu 3.csprojResolveAssemblyReference.cache

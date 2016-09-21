@@ -1,0 +1,5 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\ConversionTemperature\bin\Debug\ConversionTemperature.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\ConversionTemperature\bin\Debug\ConversionTemperature.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\ConversionTemperature\bin\Debug\ConversionTemperature.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\ConversionTemperature\obj\Debug\ConversionTemperature.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\ConversionTemperature\obj\Debug\ConversionTemperature.pdb

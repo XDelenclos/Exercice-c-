@@ -1,0 +1,5 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle somme d'un intervalle\bin\Debug\boucle somme d'un intervalle.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle somme d'un intervalle\bin\Debug\boucle somme d'un intervalle.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle somme d'un intervalle\bin\Debug\boucle somme d'un intervalle.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle somme d'un intervalle\obj\Debug\boucle somme d'un intervalle.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle somme d'un intervalle\obj\Debug\boucle somme d'un intervalle.pdb

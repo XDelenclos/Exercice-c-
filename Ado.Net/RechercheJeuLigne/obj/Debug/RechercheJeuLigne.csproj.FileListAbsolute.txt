@@ -1,0 +1,9 @@
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\RechercheJeuLigne\bin\Debug\RechercheJeuLigne.exe.config
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\RechercheJeuLigne\bin\Debug\RechercheJeuLigne.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\RechercheJeuLigne\bin\Debug\RechercheJeuLigne.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\RechercheJeuLigne\obj\Debug\RechercheJeuLigne.csprojResolveAssemblyReference.cache
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\RechercheJeuLigne\obj\Debug\RechercheJeuLigne.Form1.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\RechercheJeuLigne\obj\Debug\RechercheJeuLigne.Properties.Resources.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\RechercheJeuLigne\obj\Debug\RechercheJeuLigne.csproj.GenerateResource.Cache
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\RechercheJeuLigne\obj\Debug\RechercheJeuLigne.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\RechercheJeuLigne\obj\Debug\RechercheJeuLigne.pdb

@@ -1,0 +1,5 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\paye ton string\bin\Debug\paye ton string.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\paye ton string\bin\Debug\paye ton string.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\paye ton string\bin\Debug\paye ton string.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\paye ton string\obj\Debug\paye ton string.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\paye ton string\obj\Debug\paye ton string.pdb

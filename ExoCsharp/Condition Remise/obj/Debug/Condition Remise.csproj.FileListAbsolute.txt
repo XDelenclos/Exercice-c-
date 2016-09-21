@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Remise\bin\Debug\Condition Remise.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Remise\bin\Debug\Condition Remise.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Remise\bin\Debug\Condition Remise.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Remise\obj\Debug\Condition Remise.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Remise\obj\Debug\Condition Remise.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Remise\obj\Debug\Condition Remise.csprojResolveAssemblyReference.cache

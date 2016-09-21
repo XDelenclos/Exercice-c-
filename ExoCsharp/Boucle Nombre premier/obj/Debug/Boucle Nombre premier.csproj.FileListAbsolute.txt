@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Nombre premier\bin\Debug\Boucle Nombre premier.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Nombre premier\obj\Debug\Boucle Nombre premier.csprojResolveAssemblyReference.cache
+C:\Users\afpa\documents\visual studio 2015\Projects\ExoCsharp\Boucle Nombre premier\bin\Debug\Boucle Nombre premier.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\ExoCsharp\Boucle Nombre premier\bin\Debug\Boucle Nombre premier.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\ExoCsharp\Boucle Nombre premier\obj\Debug\Boucle Nombre premier.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\ExoCsharp\Boucle Nombre premier\obj\Debug\Boucle Nombre premier.pdb

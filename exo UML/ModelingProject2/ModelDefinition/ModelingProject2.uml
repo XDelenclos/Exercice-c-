@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm9="http://schemas.microsoft.com/dsltools/UseCaseModel"
+  dslVersion="1.0.0.0"
+  Id="19f08810-e937-4728-aca3-4a826d2a80a5"
+  name="ModelingProject2" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <actor
+        Id="6bc6e079-0c5f-4498-add3-32d8e0235bfa"
+        name="Client"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="e8ed8abd-0319-45a9-8cc2-6216fac7c9eb"
+            isDerived="false"
+            sourceEndRoleName="Client"
+            targetEndRoleName="Consulter la liste des documents"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="34a28d21-ecda-4fd6-b464-e4d9fe88d769"
+              LastKnownName="Consulter la liste des documents"
+              LastKnownLocation="ModelingProject2.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="f79bcb79-833a-49f6-818e-5b5a246a5d50"
+                  name="Client"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="70e38ef3-6186-4dc9-93d1-c02df69f6461"
+                  name="Consulter la liste des documents"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="18a06064-28b4-4bd9-8bc5-5eff85a39ce4"
+        name="Personnel"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="f387fa38-5e51-4630-bed1-c636ea2ee21f"
+            isDerived="false"
+            sourceEndRoleName="Personnel"
+            targetEndRoleName="UseCase2"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="cc6289e9-d35a-4727-b8a4-b7895dd0fb9f"
+              LastKnownName="Inscription des nouveaux utilisateurs"
+              LastKnownLocation="ModelingProject2.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="d20ff6dc-4bc8-42a7-bbdf-2ee747bd4d92"
+                  name="Personnel"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="7df51de0-7b18-42a4-9cbf-22245c07e945"
+                  name="UseCase2"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="60c3158f-026f-45aa-adea-0acbeac355a5"
+            isDerived="false"
+            sourceEndRoleName="Personnel"
+            targetEndRoleName="assure le prêt des documents"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="d7499d6c-c7f6-4dfa-be17-1116e7fc52cd"
+              LastKnownName="assure le prêt des documents"
+              LastKnownLocation="ModelingProject2.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="d2ba1ba1-6a10-4e31-9cc4-6a1324e81480"
+                  name="Personnel"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="7f7b1d3e-6875-437a-8f2b-1e3785b7988a"
+                  name="assure le prêt des documents"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="eab77be8-a497-4f7b-ac76-e059d510b15f"
+            isDerived="false"
+            sourceEndRoleName="Personnel"
+            targetEndRoleName="Consulter les état des lecteurs"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="f1f023d3-1afe-441b-a7a2-2c6f7c724a4b"
+              LastKnownName="Consulter les états des lecteurs"
+              LastKnownLocation="ModelingProject2.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="c293ee87-b62b-43fc-aa55-a552c1f9e73c"
+                  name="Personnel"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="0676fcd5-a8da-4332-a2bf-2d1255a06bd0"
+                  name="Consulter les état des lecteurs"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="166c5b17-c0e9-4985-96ee-6112464cb04e"
+            isDerived="false"
+            sourceEndRoleName="Personnel"
+            targetEndRoleName="Gérer les relances"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="d120b5b0-9ef6-4502-aaa4-4fbf2f4ac917"
+              LastKnownName="Gérer les relances"
+              LastKnownLocation="ModelingProject2.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="17071865-96da-4640-b864-a6d8da702b2a"
+                  name="Personnel"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="2c3f3d1d-12ab-4f4f-9cbf-7c88619355bf"
+                  name="Gérer les relances"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="34a28d21-ecda-4fd6-b464-e4d9fe88d769"
+        name="Consulter la liste des documents"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="cc6289e9-d35a-4727-b8a4-b7895dd0fb9f"
+        name="Inscription des nouveaux utilisateurs"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="a220d096-7f15-4be2-a4d4-1e5d338b65d5"
+        name="Bénévoles"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="04601785-08fc-41d6-bdbd-41213954b54f"
+            isDerived="false"
+            sourceEndRoleName="Bénévoles"
+            targetEndRoleName="assure le prêt des documents"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="d7499d6c-c7f6-4dfa-be17-1116e7fc52cd"
+              LastKnownName="assure le prêt des documents"
+              LastKnownLocation="ModelingProject2.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="5fca03a4-fe2b-47f6-9223-02f2c3881450"
+                  name="Bénévoles"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="dbecdd02-aa65-4da2-9aa8-0ab5e7e056d1"
+                  name="assure le prêt des documents"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="d7499d6c-c7f6-4dfa-be17-1116e7fc52cd"
+        name="assure le prêt des documents"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="f1f023d3-1afe-441b-a7a2-2c6f7c724a4b"
+        name="Consulter les états des lecteurs"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="d120b5b0-9ef6-4502-aaa4-4fbf2f4ac917"
+        name="Gérer les relances"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="e8fe4702-4d8f-43f2-b12e-60f5ff3dbc4d"
+        name="UseCase1"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

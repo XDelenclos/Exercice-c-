@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test de string\bin\Debug\test de string.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test de string\bin\Debug\test de string.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test de string\bin\Debug\test de string.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test de string\obj\Debug\test de string.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test de string\obj\Debug\test de string.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\test de string\obj\Debug\test de string.csprojResolveAssemblyReference.cache

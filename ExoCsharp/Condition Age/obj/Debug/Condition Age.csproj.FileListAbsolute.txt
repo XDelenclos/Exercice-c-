@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Age\bin\Debug\Condition Age.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Age\bin\Debug\Condition Age.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Age\bin\Debug\Condition Age.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Age\obj\Debug\Condition Age.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Age\obj\Debug\Condition Age.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Age\obj\Debug\Condition Age.pdb

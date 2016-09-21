@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Participation\bin\Debug\Condition Participation.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Participation\bin\Debug\Condition Participation.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Participation\bin\Debug\Condition Participation.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Participation\obj\Debug\Condition Participation.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Participation\obj\Debug\Condition Participation.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Participation\obj\Debug\Condition Participation.pdb

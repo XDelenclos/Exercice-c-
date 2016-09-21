@@ -1,0 +1,9 @@
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\InsertFournis\bin\Debug\InsertFournis.exe.config
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\InsertFournis\bin\Debug\InsertFournis.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\InsertFournis\bin\Debug\InsertFournis.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\InsertFournis\obj\Debug\InsertFournis.csprojResolveAssemblyReference.cache
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\InsertFournis\obj\Debug\InsertFournis.Form1.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\InsertFournis\obj\Debug\InsertFournis.Properties.Resources.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\InsertFournis\obj\Debug\InsertFournis.csproj.GenerateResource.Cache
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\InsertFournis\obj\Debug\InsertFournis.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Ado.Net\InsertFournis\obj\Debug\InsertFournis.pdb

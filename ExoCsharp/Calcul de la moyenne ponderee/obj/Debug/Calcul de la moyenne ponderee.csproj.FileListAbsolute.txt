@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Calcul de la moyenne ponderee\bin\Debug\Calcul de la moyenne ponderee.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Calcul de la moyenne ponderee\obj\Debug\Calcul de la moyenne ponderee.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Calcul de la moyenne ponderee\bin\Debug\Calcul de la moyenne ponderee.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Calcul de la moyenne ponderee\bin\Debug\Calcul de la moyenne ponderee.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Calcul de la moyenne ponderee\obj\Debug\Calcul de la moyenne ponderee.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Calcul de la moyenne ponderee\obj\Debug\Calcul de la moyenne ponderee.pdb

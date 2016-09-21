@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\C-Sharp  Condition\bin\Debug\C-Sharp  Condition.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\C-Sharp  Condition\obj\Debug\C-Sharp  Condition.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\C-Sharp  Condition\bin\Debug\C-Sharp  Condition.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\C-Sharp  Condition\bin\Debug\C-Sharp  Condition.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\C-Sharp  Condition\obj\Debug\C-Sharp  Condition.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\C-Sharp  Condition\obj\Debug\C-Sharp  Condition.pdb

@@ -1,0 +1,9 @@
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\syntheses\bin\Debug\syntheses.exe.config
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\syntheses\bin\Debug\syntheses.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\syntheses\bin\Debug\syntheses.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\syntheses\obj\Debug\syntheses.csprojResolveAssemblyReference.cache
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\syntheses\obj\Debug\syntheses.Form1.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\syntheses\obj\Debug\syntheses.Properties.Resources.resources
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\syntheses\obj\Debug\syntheses.csproj.GenerateResource.Cache
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\syntheses\obj\Debug\syntheses.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\syntheses\obj\Debug\syntheses.pdb

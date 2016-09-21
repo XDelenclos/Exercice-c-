@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Calculette\bin\Debug\Condition Calculette.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Calculette\obj\Debug\Condition Calculette.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Calculette\bin\Debug\Condition Calculette.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Calculette\bin\Debug\Condition Calculette.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Calculette\obj\Debug\Condition Calculette.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Condition Calculette\obj\Debug\Condition Calculette.pdb

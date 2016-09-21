@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Exo2\bin\Debug\Exo2.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Exo2\obj\Debug\Exo2.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Exo2\bin\Debug\Exo2.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Exo2\bin\Debug\Exo2.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Exo2\obj\Debug\Exo2.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Exo2\obj\Debug\Exo2.pdb

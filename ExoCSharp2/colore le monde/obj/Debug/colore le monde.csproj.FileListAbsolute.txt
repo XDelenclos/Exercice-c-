@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\colore le monde\bin\Debug\colore le monde.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\colore le monde\bin\Debug\colore le monde.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\colore le monde\bin\Debug\colore le monde.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\colore le monde\obj\Debug\colore le monde.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\colore le monde\obj\Debug\colore le monde.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCSharp2\colore le monde\obj\Debug\colore le monde.csprojResolveAssemblyReference.cache

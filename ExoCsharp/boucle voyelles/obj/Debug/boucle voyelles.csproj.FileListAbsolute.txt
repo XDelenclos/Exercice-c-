@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle voyelles\bin\Debug\boucle voyelles.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle voyelles\bin\Debug\boucle voyelles.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle voyelles\bin\Debug\boucle voyelles.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle voyelles\obj\Debug\boucle voyelles.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle voyelles\obj\Debug\boucle voyelles.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\boucle voyelles\obj\Debug\boucle voyelles.pdb

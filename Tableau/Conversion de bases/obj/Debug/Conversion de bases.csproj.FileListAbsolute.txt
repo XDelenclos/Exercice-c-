@@ -1,0 +1,6 @@
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Conversion de bases\bin\Debug\Conversion de bases.exe.config
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Conversion de bases\bin\Debug\Conversion de bases.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Conversion de bases\bin\Debug\Conversion de bases.pdb
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Conversion de bases\obj\Debug\Conversion de bases.csprojResolveAssemblyReference.cache
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Conversion de bases\obj\Debug\Conversion de bases.exe
+C:\Users\afpa\documents\visual studio 2015\Projects\Tableau\Conversion de bases\obj\Debug\Conversion de bases.pdb

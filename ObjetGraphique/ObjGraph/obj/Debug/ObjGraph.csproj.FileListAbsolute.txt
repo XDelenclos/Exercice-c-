@@ -1,0 +1,9 @@
+c:\users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\ObjGraph\bin\Debug\ObjGraph.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\ObjGraph\bin\Debug\ObjGraph.exe
+c:\users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\ObjGraph\bin\Debug\ObjGraph.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\ObjGraph\obj\Debug\ObjGraph.Form1.resources
+c:\users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\ObjGraph\obj\Debug\ObjGraph.Properties.Resources.resources
+c:\users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\ObjGraph\obj\Debug\ObjGraph.csproj.GenerateResource.Cache
+c:\users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\ObjGraph\obj\Debug\ObjGraph.exe
+c:\users\afpa\documents\visual studio 2015\Projects\ObjetGraphique\ObjGraph\obj\Debug\ObjGraph.pdb
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\ObjetGraphique\ObjGraph\obj\Debug\ObjGraph.csprojResolveAssemblyReference.cache

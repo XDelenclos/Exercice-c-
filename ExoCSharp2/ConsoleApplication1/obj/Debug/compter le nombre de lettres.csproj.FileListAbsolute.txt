@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\ConsoleApplication1\obj\Debug\compter le nombre de lettres.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCSharp2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

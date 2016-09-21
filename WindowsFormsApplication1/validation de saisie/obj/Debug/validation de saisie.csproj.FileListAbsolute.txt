@@ -1,0 +1,9 @@
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\validation de saisie\bin\Debug\validation de saisie.exe.config
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\validation de saisie\bin\Debug\validation de saisie.exe
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\validation de saisie\bin\Debug\validation de saisie.pdb
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\validation de saisie\obj\Debug\validation de saisie.csprojResolveAssemblyReference.cache
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\validation de saisie\obj\Debug\validation_de_saisie.Form1.resources
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\validation de saisie\obj\Debug\validation_de_saisie.Properties.Resources.resources
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\validation de saisie\obj\Debug\validation de saisie.csproj.GenerateResource.Cache
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\validation de saisie\obj\Debug\validation de saisie.exe
+c:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\validation de saisie\obj\Debug\validation de saisie.pdb

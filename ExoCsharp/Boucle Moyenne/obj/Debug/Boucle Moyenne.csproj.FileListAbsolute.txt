@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Moyenne\bin\Debug\Boucle Moyenne.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Moyenne\bin\Debug\Boucle Moyenne.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Moyenne\bin\Debug\Boucle Moyenne.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Moyenne\obj\Debug\Boucle Moyenne.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Moyenne\obj\Debug\Boucle Moyenne.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Moyenne\obj\Debug\Boucle Moyenne.pdb

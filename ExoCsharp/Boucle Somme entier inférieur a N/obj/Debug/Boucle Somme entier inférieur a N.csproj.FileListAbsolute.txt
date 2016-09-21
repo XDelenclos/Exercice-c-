@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Somme entier inférieur a N\bin\Debug\Boucle Somme entier inférieur a N.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Somme entier inférieur a N\bin\Debug\Boucle Somme entier inférieur a N.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Somme entier inférieur a N\bin\Debug\Boucle Somme entier inférieur a N.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Somme entier inférieur a N\obj\Debug\Boucle Somme entier inférieur a N.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Somme entier inférieur a N\obj\Debug\Boucle Somme entier inférieur a N.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle Somme entier inférieur a N\obj\Debug\Boucle Somme entier inférieur a N.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCsharp\exercice 1\bin\Debug\exercice 1.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCsharp\exercice 1\bin\Debug\exercice 1.exe
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCsharp\exercice 1\bin\Debug\exercice 1.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCsharp\exercice 1\obj\Debug\exercice 1.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCsharp\exercice 1\obj\Debug\exercice 1.exe
+c:\users\afpa\documents\visual studio 2015\Projects\ExoCsharp\exercice 1\obj\Debug\exercice 1.pdb

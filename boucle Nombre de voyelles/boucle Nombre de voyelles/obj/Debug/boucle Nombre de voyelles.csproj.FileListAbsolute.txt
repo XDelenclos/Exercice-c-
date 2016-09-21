@@ -1,0 +1,5 @@
+c:\users\afpa\documents\visual studio 2015\Projects\boucle Nombre de voyelles\boucle Nombre de voyelles\bin\Debug\boucle Nombre de voyelles.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\boucle Nombre de voyelles\boucle Nombre de voyelles\bin\Debug\boucle Nombre de voyelles.exe
+c:\users\afpa\documents\visual studio 2015\Projects\boucle Nombre de voyelles\boucle Nombre de voyelles\bin\Debug\boucle Nombre de voyelles.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\boucle Nombre de voyelles\boucle Nombre de voyelles\obj\Debug\boucle Nombre de voyelles.exe
+c:\users\afpa\documents\visual studio 2015\Projects\boucle Nombre de voyelles\boucle Nombre de voyelles\obj\Debug\boucle Nombre de voyelles.pdb

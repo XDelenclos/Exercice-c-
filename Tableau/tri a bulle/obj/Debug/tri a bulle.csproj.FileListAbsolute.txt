@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\tri a bulle\bin\Debug\tri a bulle.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\tri a bulle\bin\Debug\tri a bulle.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\tri a bulle\bin\Debug\tri a bulle.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\tri a bulle\obj\Debug\tri a bulle.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\tri a bulle\obj\Debug\tri a bulle.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Tableau\tri a bulle\obj\Debug\tri a bulle.pdb

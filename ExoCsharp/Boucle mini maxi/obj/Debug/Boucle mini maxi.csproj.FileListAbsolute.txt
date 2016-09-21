@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle mini maxi\bin\Debug\Boucle mini maxi.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle mini maxi\bin\Debug\Boucle mini maxi.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle mini maxi\bin\Debug\Boucle mini maxi.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle mini maxi\obj\Debug\Boucle mini maxi.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle mini maxi\obj\Debug\Boucle mini maxi.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle mini maxi\obj\Debug\Boucle mini maxi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\afpa\documents\visual studio 2015\Projects\PatternDAO\GestionTableClient\bin\Debug\GestionTableClient.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\GestionTableClient\bin\Debug\GestionTableClient.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\GestionTableClient\bin\Debug\GestionTableClient.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\GestionTableClient\bin\Debug\DAL.dll
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\GestionTableClient\bin\Debug\DAL.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\GestionTableClient\obj\Debug\GestionTableClient.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\GestionTableClient\obj\Debug\GestionTableClient.Form1.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\GestionTableClient\obj\Debug\GestionTableClient.Properties.Resources.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\GestionTableClient\obj\Debug\GestionTableClient.csproj.GenerateResource.Cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\GestionTableClient\obj\Debug\GestionTableClient.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\PatternDAO\GestionTableClient\obj\Debug\GestionTableClient.pdb

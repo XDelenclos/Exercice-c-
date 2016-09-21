@@ -1,0 +1,5 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\CONVERSION D’UNE DUREE\bin\Debug\CONVERSION D’UNE DUREE.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\CONVERSION D’UNE DUREE\bin\Debug\CONVERSION D’UNE DUREE.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\CONVERSION D’UNE DUREE\bin\Debug\CONVERSION D’UNE DUREE.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\CONVERSION D’UNE DUREE\obj\Debug\CONVERSION D’UNE DUREE.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\CONVERSION D’UNE DUREE\obj\Debug\CONVERSION D’UNE DUREE.pdb

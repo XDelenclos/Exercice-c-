@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle jeune vieux\bin\Debug\Boucle jeune vieux.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle jeune vieux\bin\Debug\Boucle jeune vieux.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle jeune vieux\bin\Debug\Boucle jeune vieux.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle jeune vieux\obj\Debug\Boucle jeune vieux.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle jeune vieux\obj\Debug\Boucle jeune vieux.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ExoCsharp\Boucle jeune vieux\obj\Debug\Boucle jeune vieux.pdb
