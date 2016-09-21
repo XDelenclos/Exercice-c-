@@ -59,7 +59,6 @@
             this.DtViewList.Size = new System.Drawing.Size(228, 253);
             this.DtViewList.TabIndex = 0;
             this.DtViewList.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DtViewList_CellClick);
-        
             // 
             // BtnADD
             // 
@@ -195,6 +194,7 @@
             this.Controls.Add(this.DtViewList);
             this.Name = "Form1";
             this.Text = "Gestion des Clients";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DtViewList)).EndInit();
             this.GrpBoxDetails.ResumeLayout(false);

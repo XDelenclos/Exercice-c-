@@ -216,6 +216,13 @@ namespace GestionTableClient
             textBox3.Text = DtViewList.SelectedRows[0].Cells[2].Value.ToString();
         }
 
-       
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult R = MessageBox.Show("Souhaitez vous vraiment quitter ?", "validation", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (R == DialogResult.Yes)
+            { }
+            else
+                e.Cancel = true;
+        }
     }
 }
